@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-10T01:53:20 IST" name="Automation Test Suite" finished-at="2023-05-10T01:53:40 IST" duration-ms="19291">
+  <suite started-at="2023-05-10T02:31:29 IST" name="Default suite" finished-at="2023-05-10T02:31:53 IST" duration-ms="23884">
     <groups>
     </groups>
-    <test started-at="2023-05-10T01:53:20 IST" name="Test Cases" finished-at="2023-05-10T01:53:40 IST" duration-ms="19291">
+    <test started-at="2023-05-10T02:31:29 IST" name="Default test" finished-at="2023-05-10T02:31:53 IST" duration-ms="23884">
       <class name="com.crm.qa.testcases.WebTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.WebTest@31304f14]" started-at="2023-05-10T01:53:15 IST" name="setUp" finished-at="2023-05-10T01:53:20 IST" duration-ms="5764" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.WebTest@34a3d150]" started-at="2023-05-10T02:31:22 IST" name="setUp" finished-at="2023-05-10T02:31:29 IST" duration-ms="6401" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="navigateToAmazonPage()[pri:1, instance:com.crm.qa.testcases.WebTest@31304f14]" started-at="2023-05-10T01:53:21 IST" name="navigateToAmazonPage" finished-at="2023-05-10T01:53:24 IST" duration-ms="3530" status="PASS">
+        <test-method signature="navigateToAmazonPage()[pri:1, instance:com.crm.qa.testcases.WebTest@34a3d150]" started-at="2023-05-10T02:31:29 IST" name="navigateToAmazonPage" finished-at="2023-05-10T02:31:33 IST" duration-ms="4377" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToAmazonPage -->
-        <test-method signature="searchItem()[pri:2, instance:com.crm.qa.testcases.WebTest@31304f14]" started-at="2023-05-10T01:53:24 IST" name="searchItem" finished-at="2023-05-10T01:53:27 IST" duration-ms="3417" status="PASS">
+        <test-method signature="searchItem()[pri:2, instance:com.crm.qa.testcases.WebTest@34a3d150]" started-at="2023-05-10T02:31:33 IST" name="searchItem" finished-at="2023-05-10T02:31:38 IST" duration-ms="4373" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchItem -->
-        <test-method signature="navigateToProductDetailsPage()[pri:3, instance:com.crm.qa.testcases.WebTest@31304f14]" started-at="2023-05-10T01:53:27 IST" name="navigateToProductDetailsPage" finished-at="2023-05-10T01:53:34 IST" duration-ms="6983" status="PASS">
+        <test-method signature="navigateToProductDetailsPage()[pri:3, instance:com.crm.qa.testcases.WebTest@34a3d150]" started-at="2023-05-10T02:31:38 IST" name="navigateToProductDetailsPage" finished-at="2023-05-10T02:31:47 IST" duration-ms="9434" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToProductDetailsPage -->
-        <test-method signature="addtoCart()[pri:4, instance:com.crm.qa.testcases.WebTest@31304f14]" started-at="2023-05-10T01:53:34 IST" name="addtoCart" finished-at="2023-05-10T01:53:40 IST" duration-ms="5297" status="PASS">
+        <test-method signature="addtoCart()[pri:4, instance:com.crm.qa.testcases.WebTest@34a3d150]" started-at="2023-05-10T02:31:47 IST" name="addtoCart" finished-at="2023-05-10T02:31:53 IST" duration-ms="5625" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addtoCart -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.WebTest@31304f14]" started-at="2023-05-10T01:53:40 IST" name="tearDown" finished-at="2023-05-10T01:53:41 IST" duration-ms="1079" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.WebTest@34a3d150]" started-at="2023-05-10T02:31:53 IST" name="tearDown" finished-at="2023-05-10T02:31:54 IST" duration-ms="1217" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.crm.qa.testcases.WebTest -->
-    </test> <!-- Test Cases -->
-  </suite> <!-- Automation Test Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

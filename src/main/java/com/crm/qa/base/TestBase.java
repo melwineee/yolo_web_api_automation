@@ -40,6 +40,7 @@ public class TestBase {
 	}
 	
 	
+	@SuppressWarnings("deprecation")
 	public static void initialization(){
 		
 		String browserName = prop.getProperty("browser");

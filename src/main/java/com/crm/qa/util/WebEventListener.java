@@ -20,6 +20,7 @@ import org.openqa.selenium.support.events.WebDriverEventListener;
 
 import com.crm.qa.base.TestBase;
 
+@SuppressWarnings("deprecation")
 public class WebEventListener extends TestBase implements WebDriverEventListener {
 
 	public void beforeNavigateTo(String url, WebDriver driver) {
